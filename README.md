@@ -1,6 +1,6 @@
 ## ADMM
 
-![build](https://secure.travis-ci.org/intentmedia/admm.png?branch=master)
+![build](https://travis-ci.org/intentmedia/admm.png?branch=master)
 
 ADMM is a Hadoop Map Reduce implementation of the Alternating Direction Method
 of Multipliers (ADMM) algorithm [[1]](http://www.stanford.edu/~boyd/papers/admm_distr_stats.html).
